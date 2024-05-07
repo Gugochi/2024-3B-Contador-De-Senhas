@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Briem+Hand:wght@100..900&family=Poetsen+One&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+:root{
+    --azul-marinho-forte: #03045e;
+    --azul-marinho: #032174;
+    --azul-marinho-fraco: #0096c7;
+    --azul-ciano-forte: #48cae4;
+    --azul-ciano: #90e0ef;
+    --azul-ciano-fraco: #ade8f4;
+    --azul-ciano-bem-claro: #d5f3f9;
+}
