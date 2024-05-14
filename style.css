@@ -3,6 +3,7 @@
 *{
     margin: 0;
     padding: 0;
+    font-weight: 400;
 }
 
 :root{
@@ -13,4 +14,25 @@
     --azul-ciano: #90e0ef;
     --azul-ciano-fraco: #ade8f4;
     --azul-ciano-bem-claro: #d5f3f9;
+    --fonte-titulo: "Briem Hand", cursive;
+    --fonte-texto: "Poetsen One", sans-serif;
+}
+
+body{
+    background-color: var(--azul-ciano-forte);
+    color: var(--azul-marinho-forte);
+    font-family: var(--fonte-texto);
+}
+
+.img-cadeado{
+    width: 5%;
+}
+
+.conteudo-titulo{
+    text-align: center;
+    margin-top: 80px;
+}
+
+.titulo-principal{
+    font-family: var(--fonte-titulo)
 }
